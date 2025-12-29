@@ -68,7 +68,7 @@
       Card/
         Card.js
 
-  Stylus Best Practices
+  Best Practices
   - Use variables for colors, fonts, and other repeated values.
   - Create mixins for commonly used style patterns.
 
