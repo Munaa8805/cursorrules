@@ -49,7 +49,7 @@
 
   State Management
   - Use useContext for global state management.
-  - Lift state up when needed to share state between components.
+  - Lift state when needed to share state between components.
   - Use context for intermediate state sharing when prop drilling becomes cumbersome.
 
   UI and Styling
@@ -80,7 +80,7 @@
   - Optimize images: use WebP format, include size data, implement lazy loading.
   - Implement route-based code splitting in Next.js.
   - Minimize the use of global styles; prefer modular, scoped styles.
-  - Use PurgeCSS with Tailwind to remove unused styles in production.
+
 
   Forms and Validation
   - Use controlled components for form inputs.
